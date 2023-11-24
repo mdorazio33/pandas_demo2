@@ -1,0 +1,5 @@
+This repository contains a demonstration of how to use Pandas to analyze data and create four separate plots from a temperature dataset for the city of Philadelphia. Plots generated in this demonstration consist of Horizonatal barplots, Heatmaps, Histograms, and Boxplots.
+
+The libraries used in this demo consist mainly of Pandas, Matplotlib, and Seaborn.
+
+Enjoy!
